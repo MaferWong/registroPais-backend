@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wong\\Documents\\Projects\\RegistroPaises\\UnitTesting\\UnitTesting.csproj": {}
+    "C:\\Users\\Wong\\Documents\\Projects\\ExamenII\\RegistroPaises\\UnitTesting\\UnitTesting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wong\\Documents\\Projects\\RegistroPaises\\RegistroPaises\\RegistroPaises.csproj": {
+    "C:\\Users\\Wong\\Documents\\Projects\\ExamenII\\RegistroPaises\\RegistroPaises\\RegistroPaises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wong\\Documents\\Projects\\RegistroPaises\\RegistroPaises\\RegistroPaises.csproj",
+        "projectUniqueName": "C:\\Users\\Wong\\Documents\\Projects\\ExamenII\\RegistroPaises\\RegistroPaises\\RegistroPaises.csproj",
         "projectName": "RegistroPaises",
-        "projectPath": "C:\\Users\\Wong\\Documents\\Projects\\RegistroPaises\\RegistroPaises\\RegistroPaises.csproj",
+        "projectPath": "C:\\Users\\Wong\\Documents\\Projects\\ExamenII\\RegistroPaises\\RegistroPaises\\RegistroPaises.csproj",
         "packagesPath": "C:\\Users\\Wong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wong\\Documents\\Projects\\RegistroPaises\\RegistroPaises\\obj\\",
+        "outputPath": "C:\\Users\\Wong\\Documents\\Projects\\ExamenII\\RegistroPaises\\RegistroPaises\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -93,14 +93,14 @@
         }
       }
     },
-    "C:\\Users\\Wong\\Documents\\Projects\\RegistroPaises\\UnitTesting\\UnitTesting.csproj": {
+    "C:\\Users\\Wong\\Documents\\Projects\\ExamenII\\RegistroPaises\\UnitTesting\\UnitTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wong\\Documents\\Projects\\RegistroPaises\\UnitTesting\\UnitTesting.csproj",
+        "projectUniqueName": "C:\\Users\\Wong\\Documents\\Projects\\ExamenII\\RegistroPaises\\UnitTesting\\UnitTesting.csproj",
         "projectName": "UnitTesting",
-        "projectPath": "C:\\Users\\Wong\\Documents\\Projects\\RegistroPaises\\UnitTesting\\UnitTesting.csproj",
+        "projectPath": "C:\\Users\\Wong\\Documents\\Projects\\ExamenII\\RegistroPaises\\UnitTesting\\UnitTesting.csproj",
         "packagesPath": "C:\\Users\\Wong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wong\\Documents\\Projects\\RegistroPaises\\UnitTesting\\obj\\",
+        "outputPath": "C:\\Users\\Wong\\Documents\\Projects\\ExamenII\\RegistroPaises\\UnitTesting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -117,8 +117,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Wong\\Documents\\Projects\\RegistroPaises\\RegistroPaises\\RegistroPaises.csproj": {
-                "projectPath": "C:\\Users\\Wong\\Documents\\Projects\\RegistroPaises\\RegistroPaises\\RegistroPaises.csproj"
+              "C:\\Users\\Wong\\Documents\\Projects\\ExamenII\\RegistroPaises\\RegistroPaises\\RegistroPaises.csproj": {
+                "projectPath": "C:\\Users\\Wong\\Documents\\Projects\\ExamenII\\RegistroPaises\\RegistroPaises\\RegistroPaises.csproj"
               }
             }
           }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wong\\Documents\\Projects\\RegistroPaises\\RegistroPaises\\RegistroPaises.csproj": {}
+    "C:\\Users\\Wong\\Documents\\Projects\\ExamenII\\RegistroPaises\\RegistroPaises\\RegistroPaises.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wong\\Documents\\Projects\\RegistroPaises\\RegistroPaises\\RegistroPaises.csproj": {
+    "C:\\Users\\Wong\\Documents\\Projects\\ExamenII\\RegistroPaises\\RegistroPaises\\RegistroPaises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wong\\Documents\\Projects\\RegistroPaises\\RegistroPaises\\RegistroPaises.csproj",
+        "projectUniqueName": "C:\\Users\\Wong\\Documents\\Projects\\ExamenII\\RegistroPaises\\RegistroPaises\\RegistroPaises.csproj",
         "projectName": "RegistroPaises",
-        "projectPath": "C:\\Users\\Wong\\Documents\\Projects\\RegistroPaises\\RegistroPaises\\RegistroPaises.csproj",
+        "projectPath": "C:\\Users\\Wong\\Documents\\Projects\\ExamenII\\RegistroPaises\\RegistroPaises\\RegistroPaises.csproj",
         "packagesPath": "C:\\Users\\Wong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wong\\Documents\\Projects\\RegistroPaises\\RegistroPaises\\obj\\",
+        "outputPath": "C:\\Users\\Wong\\Documents\\Projects\\ExamenII\\RegistroPaises\\RegistroPaises\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wong\\AppData\\Roaming\\NuGet\\NuGet.Config",

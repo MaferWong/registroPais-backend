@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i+01RkUKXZS+JDT894BXl+OfvOxExce4JM2Jko0QDPvltiLJoChn3knd0Zt3EtN2+GI8vf3HBVdfocdw7MfZ1Q==",
+  "dgSpecHash": "nPtL9ilfUsuaOs+myX3BywmyAVqE7N3h63JDaGrl/Gj2OJCarnmR1qUkvAm5xVUQ6u6kiDYAQFQsx9/HmhFZWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wong\\Documents\\Projects\\RegistroPaises\\UnitTesting\\UnitTesting.csproj",
+  "projectFilePath": "C:\\Users\\Wong\\Documents\\Projects\\ExamenII\\RegistroPaises\\UnitTesting\\UnitTesting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wong\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\Wong\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

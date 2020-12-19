@@ -1,0 +1,212 @@
+﻿2020-12-18T20:38:37.1421146-06:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-12-18T20:38:37.1422908-06:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.4.19 in Framework netcore31 in x64 mode execution started
+2020-12-18T20:38:37.1422941-06:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-12-18T20:38:37.1449595-06:00;VSTestExecutionThread;Info;Current UserName: 'Wong', MachineName: 'WONG'
+2020-12-18T20:38:37.1733698-06:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\SpecFlowProject.dll
+2020-12-18T20:38:37.1735770-06:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\TestResults" (default)
+2020-12-18T20:38:37.1736897-06:00;VSTestExecutionThread;Info;Profile: 
+2020-12-18T20:38:37.2236007-06:00;VSTestExecutionThread;Info;Log file path: C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\TestResults\Unnamed project__2020-12-18T203837.log
+2020-12-18T20:38:37.2285751-06:00;Thread#12;Info;Checking activation
+2020-12-18T20:38:37.3204078-06:00;Thread#12;Info;Activated.
+2020-12-18T20:38:37.3206164-06:00;Thread#12;Info;Activation check completed
+2020-12-18T20:38:37.3206865-06:00;Thread#12;Info;Starting test run
+2020-12-18T20:38:37.4049408-06:00;Thread#12;Info;Discovering target: Default
+2020-12-18T20:38:37.4051481-06:00;Thread#12;Info;Discovering tests from assembly: C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\SpecFlowProject.dll
+2020-12-18T20:38:37.4904398-06:00;Thread#12;Info;Discovered tests from assembly: C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\SpecFlowProject.dll
+2020-12-18T20:38:37.4915937-06:00:Test Suite Dump
+2020-12-18T20:38:37.4931363-06:00:#0: Unnamed project/ - 
+2020-12-18T20:38:37.4931534-06:00:#1: Default - 
+2020-12-18T20:38:37.4931552-06:00:#2: SpecFlowProject - 
+2020-12-18T20:38:37.4931566-06:00:#3: RegistroDepartamento - 
+2020-12-18T20:38:37.4931578-06:00:#5: Registro Pais - 
+2020-12-18T20:38:37.4943426-06:00:#4: Registro de Departamento - TestAssembly:SpecFlowProject/Feature:RegistroDepartamento/Scenario:Registro+de+Departamento
+2020-12-18T20:38:37.4943949-06:00:#6: Registro de Pais - TestAssembly:SpecFlowProject/Feature:Registro+Pais/Scenario:Registro+de+Pais
+2020-12-18T20:38:37.4944439-06:00:End: Test Suite Dump
+2020-12-18T20:38:37.5106625-06:00:Thread#0:Scheduler: get next test for thread 0
+2020-12-18T20:38:37.5124660-06:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-12-18T20:38:37.5125321-06:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-12-18T20:38:37.5188217-06:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-12-18T20:38:37.5188949-06:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-12-18T20:38:37.5188980-06:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-12-18T20:38:37.5189017-06:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-12-18T20:38:37.5200002-06:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-12-18T20:38:37.5215765-06:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-12-18T20:38:37.5237572-06:00:Thread #0: creating new test thread executor for SpecFlowProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-12-18T20:38:37.5261462-06:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-12-18T20:38:37.5263373-06:00:Thread #0: Creating test assembly executor for execution model OutProc
+2020-12-18T20:38:37.5282863-06:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2020-12-18T20:38:37.5300704-06:00:starting Out Of Process Executor
+2020-12-18T20:38:37.5316221-06:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-12-18T20:38:37.5348765-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2020-12-18T20:38:37.5349023-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2020-12-18T20:38:37.5362134-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1'
+2020-12-18T20:38:37.5366200-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2020-12-18T20:38:37.5367318-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2020-12-18T20:38:37.5367837-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1'
+2020-12-18T20:38:37.5369986-06:00:TargetFramework: .NETCoreApp,Version=v3.1
+2020-12-18T20:38:37.5375033-06:00:Tfm: netcoreapp3.1
+2020-12-18T20:38:37.5375168-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2020-12-18T20:38:37.5375187-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2020-12-18T20:38:37.5375885-06:00:[AssemblyCache] Found file 'C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2020-12-18T20:38:37.5379650-06:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2020-12-18T20:38:37.5385224-06:00:Starting callback TCP Rpc server
+2020-12-18T20:38:37.5550838-06:00:Asynchronously starting background TCP Rpc Server on port 32770
+2020-12-18T20:38:37.5551268-06:00:Started callback TCP Rpc server on port 32770
+2020-12-18T20:38:37.5551434-06:00:Starting logger TCP Rpc server
+2020-12-18T20:38:37.5568864-06:00:Asynchronously starting background TCP Rpc Server on port 32771
+2020-12-18T20:38:37.5569019-06:00:Started logger TCP Rpc server on port 32771
+2020-12-18T20:38:37.6408733-06:00:Executing test executor at 'dotnet' 'exec "C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 8584 --uniqueId "2020-12-18T203837" --outputFolder "C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\TestResults" --callbackPort 32770 --loggerPort 32771' in 'C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1'
+2020-12-18T20:38:37.6483739-06:00:Executor with PID 13196 has been started successfully.
+2020-12-18T20:38:37.6514021-06:00:Out of Process Executor 13196 started
+2020-12-18T20:38:37.6514196-06:00:Waiting for endpoint
+2020-12-18T20:38:37.9667137-06:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-12-18T20:38:37.9667398-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2020-12-18T20:38:37.9667425-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2020-12-18T20:38:37.9667476-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1'
+2020-12-18T20:38:37.9667490-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2020-12-18T20:38:37.9667890-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2020-12-18T20:38:37.9671786-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1'
+2020-12-18T20:38:37.9671881-06:00:TargetFramework: .NETCoreApp,Version=v3.1
+2020-12-18T20:38:37.9672217-06:00:Tfm: netcoreapp3.1
+2020-12-18T20:38:37.9672256-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2020-12-18T20:38:37.9672275-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2020-12-18T20:38:37.9673104-06:00:[AssemblyCache] Found file 'C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll' for assembly 'Microsoft.VisualStudio.Threading'
+2020-12-18T20:38:37.9679965-06:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Threading' to C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+2020-12-18T20:38:39.7563126-06:00:Remote executor port received: 32772
+2020-12-18T20:38:39.7567303-06:00:Creating executor TCP client on port 32772
+2020-12-18T20:38:39.7572319-06:00:Created executor TCP client on port 32772
+2020-12-18T20:38:39.7572397-06:00:Connecting to remote executor TCP server
+2020-12-18T20:38:39.7581501-06:00:Connected remote executor TCP server
+2020-12-18T20:38:39.7583638-06:00:trying to connect to Out of Process Executor the 1 attempt
+2020-12-18T20:38:39.7583734-06:00:Connection to Out of Process Executor established in the 1 attempt
+2020-12-18T20:38:39.9194841-06:00:2020-12-18T20:38:39.9180876-06:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\SpecFlowProject.dll on test thread #0
+2020-12-18T20:38:39.9253882-06:00:Endpoint 13196 started
+2020-12-18T20:38:39.9459861-06:00:2020-12-18T20:38:39.9456208-06:00:OutOfProcessTestAssemblyExecutor: running tests...
+2020-12-18T20:38:40.0583721-06:00:2020-12-18T20:38:40.0579973-06:00:Assembly resolving TechTalk.SpecFlow, Version=3.4.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-12-18T20:38:40.0616651-06:00:2020-12-18T20:38:40.0611539-06:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2020-12-18T20:38:40.0653083-06:00:2020-12-18T20:38:40.0646701-06:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\Wong\.nuget\packages\specflow\3.4.8\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2020-12-18T20:38:40.1747062-06:00:2020-12-18T20:38:40.1735099-06:00:Thread#0:T:-> Loading plugin C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\LivingDoc.SpecFlowPlugin.dll
+2020-12-18T20:38:40.1776775-06:00:2020-12-18T20:38:40.1766611-06:00:Assembly resolving TechTalk.SpecFlow, Version=3.4.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-12-18T20:38:40.1797690-06:00:2020-12-18T20:38:40.1789018-06:00:Assembly resolving LivingDoc.Dtos, Version=3.4.0.0, Culture=neutral, PublicKeyToken=null
+2020-12-18T20:38:40.1813538-06:00:2020-12-18T20:38:40.1804152-06:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2020-12-18T20:38:40.1872103-06:00:2020-12-18T20:38:40.1862355-06:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\Wong\.nuget\packages\specflow.plus.livingdocplugin\3.4.211\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2020-12-18T20:38:40.1910366-06:00:2020-12-18T20:38:40.1906376-06:00:Thread#0:T:-> Loading plugin C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-12-18T20:38:40.1922759-06:00:2020-12-18T20:38:40.1919738-06:00:Assembly resolving TechTalk.SpecFlow, Version=3.4.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2020-12-18T20:38:40.1978163-06:00:2020-12-18T20:38:40.1975158-06:00:Thread#0:T:-> Using default config
+2020-12-18T20:38:40.2099740-06:00:2020-12-18T20:38:40.2094799-06:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2020-12-18T20:38:40.2103106-06:00:2020-12-18T20:38:40.2101482-06:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2020-12-18T20:38:40.2107707-06:00:2020-12-18T20:38:40.2105903-06:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\Wong\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2020-12-18T20:38:40.2119964-06:00:2020-12-18T20:38:40.2117484-06:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2020-12-18T20:38:40.2122799-06:00:2020-12-18T20:38:40.2121454-06:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2020-12-18T20:38:40.2127022-06:00:2020-12-18T20:38:40.2125344-06:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\Wong\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2020-12-18T20:38:40.2229931-06:00:2020-12-18T20:38:40.2226445-06:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2020-12-18T20:38:40.2234289-06:00:2020-12-18T20:38:40.2232102-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2020-12-18T20:38:40.2240327-06:00:2020-12-18T20:38:40.2238158-06:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\Wong\.nuget\packages\microsoft.testplatform.objectmodel\16.5.0\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2020-12-18T20:38:40.2603181-06:00:2020-12-18T20:38:40.2599842-06:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2020-12-18T20:38:40.2607040-06:00:2020-12-18T20:38:40.2605210-06:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2020-12-18T20:38:40.2611655-06:00:2020-12-18T20:38:40.2610080-06:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\Wong\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2020-12-18T20:38:40.4616698-06:00:Thread#0: Test #4/0 is started on thread #0
+2020-12-18T20:38:40.4906817-06:00:2020-12-18T20:38:40.4902887-06:00:Thread#0:B:Given el nombre del departamento es "Departamento de Cortes"
+2020-12-18T20:38:40.5069162-06:00:2020-12-18T20:38:40.5065788-06:00:Assembly resolving RegistroPaises, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2020-12-18T20:38:40.5072832-06:00:2020-12-18T20:38:40.5071527-06:00:[AssemblyCache] Trying to resolve 'RegistroPaises' from .deps.json file
+2020-12-18T20:38:40.5081624-06:00:2020-12-18T20:38:40.5079780-06:00:[DependencyContextAssemblyCache.ResolveManagedAssembly] Resolving 'RegistroPaises', found in dependency map, but unable to resolve a path in ['RegistroPaises.dll']
+2020-12-18T20:38:40.5084755-06:00:2020-12-18T20:38:40.5083439-06:00:[AssemblyCache] Could not resolve 'RegistroPaises' from .deps.json
+2020-12-18T20:38:40.5099800-06:00:2020-12-18T20:38:40.5097052-06:00:[AssemblyCache] Trying to resolve 'RegistroPaises' in folder 'C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1'
+2020-12-18T20:38:40.5131054-06:00:2020-12-18T20:38:40.5127792-06:00:[AssemblyCache] Trying to resolve 'RegistroPaises' to 'C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\RegistroPaises.dll'
+2020-12-18T20:38:40.5142511-06:00:2020-12-18T20:38:40.5134907-06:00:[AssemblyCache] Found file 'C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\RegistroPaises.dll' for assembly 'RegistroPaises'
+2020-12-18T20:38:40.5184889-06:00:2020-12-18T20:38:40.5155944-06:00:[AssemblyCache] Resolved 'RegistroPaises' to C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\RegistroPaises.dll
+2020-12-18T20:38:40.5250077-06:00:2020-12-18T20:38:40.5246194-06:00:Thread#0:T:done: RegistroDepartamentoStepDefinition.GivenElNombreDelDepartamentoEs("Departamento de C...") (0.0s)
+2020-12-18T20:38:40.5272997-06:00:2020-12-18T20:38:40.5269198-06:00:Thread#0:B:And el codigo del departamento es "05"
+2020-12-18T20:38:40.5288247-06:00:2020-12-18T20:38:40.5284726-06:00:Thread#0:T:done: RegistroDepartamentoStepDefinition.GivenElCodigoDelDepartamentoEs("05") (0.0s)
+2020-12-18T20:38:40.5295939-06:00:2020-12-18T20:38:40.5293361-06:00:Thread#0:B:When registrando el departamento
+2020-12-18T20:38:40.5315382-06:00:2020-12-18T20:38:40.5310609-06:00:Thread#0:T:done: RegistroDepartamentoStepDefinition.WhenRegistrandoElDepartamento() (0.0s)
+2020-12-18T20:38:40.5348602-06:00:2020-12-18T20:38:40.5321455-06:00:Thread#0:B:Then el registro del departamento es "Success"
+2020-12-18T20:38:40.5363197-06:00:2020-12-18T20:38:40.5360188-06:00:Assembly resolving FluentAssertions, Version=5.10.3.0, Culture=neutral, PublicKeyToken=33f2691a05b67b6a
+2020-12-18T20:38:40.5366894-06:00:2020-12-18T20:38:40.5365204-06:00:[AssemblyCache] Trying to resolve 'FluentAssertions' from .deps.json file
+2020-12-18T20:38:40.5370911-06:00:2020-12-18T20:38:40.5369438-06:00:[AssemblyCache] Resolved 'FluentAssertions' to 'C:\Users\Wong\.nuget\packages\fluentassertions\5.10.3\lib\netcoreapp2.1\FluentAssertions.dll'
+2020-12-18T20:38:40.5438208-06:00:2020-12-18T20:38:40.5432465-06:00:Thread#0:T:done: RegistroDepartamentoStepDefinition.ThenElRegistroDelDepartamentoEs("Success") (0.0s)
+2020-12-18T20:38:40.5551299-06:00:Thread#0:Scheduler: get next test for thread 0
+2020-12-18T20:38:40.5551761-06:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2020-12-18T20:38:40.5551800-06:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2020-12-18T20:38:40.5552334-06:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2020-12-18T20:38:40.5552370-06:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2020-12-18T20:38:40.5552383-06:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2020-12-18T20:38:40.5552394-06:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2020-12-18T20:38:40.5552682-06:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2020-12-18T20:38:40.5552992-06:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-12-18T20:38:40.5979273-06:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 0.1352826 seconds
+2020-12-18T20:38:40.6016622-06:00:Thread#0: Test #6/0 is started on thread #0
+2020-12-18T20:38:40.6045452-06:00:2020-12-18T20:38:40.6040164-06:00:Thread#0:B:Given el nombre del pais es "Honduras"
+2020-12-18T20:38:40.6061145-06:00:2020-12-18T20:38:40.6058359-06:00:Thread#0:T:done: RegistroPaisStepDefinitions.GivenElNombreDelPaisEs("Honduras") (0.0s)
+2020-12-18T20:38:40.6065016-06:00:2020-12-18T20:38:40.6063216-06:00:Thread#0:B:And el codigo del pais es "HND"
+2020-12-18T20:38:40.6075557-06:00:2020-12-18T20:38:40.6072935-06:00:Thread#0:T:done: RegistroPaisStepDefinitions.GivenElCodigoDelPaisEs("HND") (0.0s)
+2020-12-18T20:38:40.6079163-06:00:2020-12-18T20:38:40.6077664-06:00:Thread#0:B:And el departamentoId del pais es 1
+2020-12-18T20:38:40.6108704-06:00:2020-12-18T20:38:40.6105529-06:00:Thread#0:T:done: RegistroPaisStepDefinitions.GivenElDepartamentoIdDelPaisEs(1) (0.0s)
+2020-12-18T20:38:40.6112696-06:00:2020-12-18T20:38:40.6110990-06:00:Thread#0:B:When registrando el pais
+2020-12-18T20:38:40.6125073-06:00:2020-12-18T20:38:40.6122661-06:00:Thread#0:T:done: RegistroPaisStepDefinitions.WhenRegistrandoElPais() (0.0s)
+2020-12-18T20:38:40.6129044-06:00:2020-12-18T20:38:40.6127280-06:00:Thread#0:B:Then el registro del pais es "Success"
+2020-12-18T20:38:40.6141225-06:00:2020-12-18T20:38:40.6138048-06:00:Thread#0:T:done: RegistroPaisStepDefinitions.ThenElRegistroDelPaisEs("Success") (0.0s)
+2020-12-18T20:38:40.6152766-06:00:Thread#0:Scheduler: get next test for thread 0
+2020-12-18T20:38:40.6152994-06:00:Thread#:Scheduler: at the end of normal test queue
+2020-12-18T20:38:40.6153014-06:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-12-18T20:38:40.6153028-06:00:Thread#0:Scheduler: No more tests for thread
+2020-12-18T20:38:40.6187856-06:00:Thread#0: Test #6/0 is finished on thread #0 as Succeeded within 0.017066 seconds
+2020-12-18T20:38:40.6258799-06:00:2020-12-18T20:38:40.6254589-06:00:Got Deinitialize Signal
+2020-12-18T20:38:40.6291655-06:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2020-12-18T20:38:40.6299869-06:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2020-12-18T20:38:40.6316207-06:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2020-12-18T20:38:40.6345094-06:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en-US, PublicKeyToken=b03f5f7f11d50a3a
+2020-12-18T20:38:40.6345333-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2020-12-18T20:38:40.6345354-06:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2020-12-18T20:38:40.6345428-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1'
+2020-12-18T20:38:40.6345448-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2020-12-18T20:38:40.6346467-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2020-12-18T20:38:40.6347096-06:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1'
+2020-12-18T20:38:40.6347337-06:00:TargetFramework: .NETCoreApp,Version=v3.1
+2020-12-18T20:38:40.6348057-06:00:Tfm: netcoreapp3.1
+2020-12-18T20:38:40.6348237-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2020-12-18T20:38:40.6348250-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2020-12-18T20:38:40.6348765-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2020-12-18T20:38:40.6349336-06:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\SpecFlowProject\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2020-12-18T20:38:40.6414915-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.9'
+2020-12-18T20:38:40.6415071-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.9\System.Diagnostics.Process.resources.dll'
+2020-12-18T20:38:40.6415605-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.9\System.Diagnostics.Process.resources.exe'
+2020-12-18T20:38:40.6415909-06:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.9'
+2020-12-18T20:38:40.6417033-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.9'
+2020-12-18T20:38:40.6417061-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.9\System.Diagnostics.Process.resources.dll'
+2020-12-18T20:38:40.6417431-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.9\System.Diagnostics.Process.resources.exe'
+2020-12-18T20:38:40.6417719-06:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.9'
+2020-12-18T20:38:40.6418683-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9'
+2020-12-18T20:38:40.6418710-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9\System.Diagnostics.Process.resources.dll'
+2020-12-18T20:38:40.6419137-06:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9\System.Diagnostics.Process.resources.exe'
+2020-12-18T20:38:40.6419420-06:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9'
+2020-12-18T20:38:40.6427827-06:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en, PublicKeyToken=b03f5f7f11d50a3a
+2020-12-18T20:38:40.6501947-06:00:Thread#-1:Scheduler: get next test for thread -1
+2020-12-18T20:38:40.6502188-06:00:Thread#:Scheduler: at the end of normal test queue
+2020-12-18T20:38:40.6502211-06:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-12-18T20:38:40.6524368-06:00;Thread#12;Info;test run finished
+2020-12-18T20:38:40.6529098-06:00;Thread#12;Info;publishing test results
+2020-12-18T20:38:40.6532493-06:00;Thread#12;Info;Not publishing results.
+2020-12-18T20:38:40.6533331-06:00;Thread#12;Info;test results published
+2020-12-18T20:38:40.6533739-06:00;Thread#12;Info;generating reports
+2020-12-18T20:38:40.7685402-06:00;Thread#12;Info;Starting external report generation process
+2020-12-18T20:38:42.0380623-06:00;Thread#12;Info;Successfully generated reports.
+2020-12-18T20:38:42.0398820-06:00;Thread#12;Info;Successfully generated reports
+2020-12-18T20:38:42.0458702-06:00:Total: 2
+2020-12-18T20:38:42.0476424-06:00:Succeeded: 2
+2020-12-18T20:38:42.0479405-06:00:Ignored: 0
+2020-12-18T20:38:42.0481963-06:00:Pending: 0
+2020-12-18T20:38:42.0482031-06:00:Skipped: 0
+2020-12-18T20:38:42.0488975-06:00:Failed: 0
+2020-12-18T20:38:42.0557636-06:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-12-18T20:38:42.0558861-06:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\Wong\Documents\Projects\ExamenII\RegistroPaises\TestResults\Unnamed project__2020-12-18T203837.html'
+========== End of log file ==========

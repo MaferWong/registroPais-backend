@@ -5,7 +5,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace UnitTesting
 {
     [TestClass]
-    class UnitTestDepartamento
+    public class UnitTestDepartamento
     {
         [TestMethod]
         public void ValidarNombreDepartamentoAlRegistrar()
@@ -16,7 +16,7 @@ namespace UnitTesting
 
             var respuesta = departamentoDomainService.RegistrarDepartamento(departamento);
 
-            Assert.AreEqual("Se necesita el nombre de Departamento", respuesta);
+            Assert.AreEqual("Se necesita el nombre del Departamento", respuesta);
         }
 
         [TestMethod]
@@ -41,7 +41,7 @@ namespace UnitTesting
 
             var respuesta = departamentoDomainService.ActualizarDepartamento(id, departamento);
 
-            Assert.AreEqual("Se necesita el nombre de Departamento", respuesta);
+            Assert.AreEqual("Se necesita el nombre del Departamento", respuesta);
         }
 
         [TestMethod]

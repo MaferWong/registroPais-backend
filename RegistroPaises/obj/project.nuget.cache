@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZvKdeg34Yxmcgtz/KyPYmEpomMSf5ghzWTQlDzF9+nHzhlQs3RmPlhF4PuiWTwIA37P8zdml43OXeETW4huwdQ==",
+  "dgSpecHash": "huc9jPu4EWj+tBjMGaQNekR+d2oxY+5mlrvUa/B/bSzuMLvfg7XDfLQFQJFcAaLw9iKOmwUD3tK46z35joGuKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Wong\\Documents\\Projects\\RegistroPaises\\RegistroPaises\\RegistroPaises.csproj",
+  "projectFilePath": "C:\\Users\\Wong\\Documents\\Projects\\ExamenII\\RegistroPaises\\RegistroPaises\\RegistroPaises.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Wong\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Wong\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

@@ -10505,11 +10505,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Wong\\Documents\\Projects\\RegistroPaises\\SpecFlowProject\\SpecFlowProject.csproj",
+      "projectUniqueName": "C:\\Users\\Wong\\Documents\\Projects\\ExamenII\\RegistroPaises\\SpecFlowProject\\SpecFlowProject.csproj",
       "projectName": "SpecFlowProject",
-      "projectPath": "C:\\Users\\Wong\\Documents\\Projects\\RegistroPaises\\SpecFlowProject\\SpecFlowProject.csproj",
+      "projectPath": "C:\\Users\\Wong\\Documents\\Projects\\ExamenII\\RegistroPaises\\SpecFlowProject\\SpecFlowProject.csproj",
       "packagesPath": "C:\\Users\\Wong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Wong\\Documents\\Projects\\RegistroPaises\\SpecFlowProject\\obj\\",
+      "outputPath": "C:\\Users\\Wong\\Documents\\Projects\\ExamenII\\RegistroPaises\\SpecFlowProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Wong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10526,8 +10526,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Wong\\Documents\\Projects\\RegistroPaises\\RegistroPaises\\RegistroPaises.csproj": {
-              "projectPath": "C:\\Users\\Wong\\Documents\\Projects\\RegistroPaises\\RegistroPaises\\RegistroPaises.csproj"
+            "C:\\Users\\Wong\\Documents\\Projects\\ExamenII\\RegistroPaises\\RegistroPaises\\RegistroPaises.csproj": {
+              "projectPath": "C:\\Users\\Wong\\Documents\\Projects\\ExamenII\\RegistroPaises\\RegistroPaises\\RegistroPaises.csproj"
             }
           }
         }
